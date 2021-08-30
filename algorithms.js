@@ -6,6 +6,9 @@ function sumUp(n) {
     return(result);
 }
 
-sumUp(3);
+// Simplified way to perform the same function: 
+// function sumUp(n) {
+//     return (n/2) * (1+n);
+// })
 
-console.log(result);
+
