@@ -16,8 +16,14 @@ function sumUp(n) {
 
 //Basic array example 
 const data = ['A', 'B', 'C']
+const data2 = [1, 2, 3, 4, 5]
 
+for (let j =0; j < data2.length; j++) {
 for (let i = 0; i < data.length; i++) {
     console.log(data[i]);
+    }
 }
+
+//set n as the length of data array 1, a as length of data array 2
+O(n + a)
 
